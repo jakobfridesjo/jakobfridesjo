@@ -41,6 +41,8 @@ I also enjoy working in Ruby when I need to come up with short and neat solution
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=jakobfridesjo&show_icons=true&locale=en&layout=compact&hide_border=true&theme=github" alt="jakobfridesjo" align="center">
 </p>
 
+---
+
 ### How to reach me:
 
 Email: jakob.fridesjo@tuta.io
