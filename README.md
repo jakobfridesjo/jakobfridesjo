@@ -1,7 +1,7 @@
 # You've reached the GitHub of Jakob Fridesjö
 
 I'm a developer from Sweden with an interest in everything computer related, especially low
-level stuff, but also all things related to graphics and sound. 
+level stuff, graphics and sound. 
 I prefer working with Linux and Android where the favorite languages are Rust and Kotlin, 
 I also enjoy working in Ruby when I need to come up with short and neat solutions.
 
