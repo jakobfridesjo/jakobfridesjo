@@ -1,9 +1,3 @@
-# You've reached the GitHub of Jakob Fridesjö
-
-I'm a developer from Sweden with an interest in everything computer related.
-
-## What I like working with
-
 ### Tier 1
 
 ![C](https://img.shields.io/badge/C-555555.svg?&style=for-the-badge&logo=c&logoColor=white)
@@ -17,6 +11,7 @@ I'm a developer from Sweden with an interest in everything computer related.
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 ### Tier 2
+
 ![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
